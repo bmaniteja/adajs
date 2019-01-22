@@ -1,2 +1,2 @@
 # adajs
-A Javascript Library for those who hate writing aria labels
+A Javascript Library for those who hate writing aria attributes
